@@ -24,7 +24,7 @@ Technologies used
 How to run it 
 ----
 ```sh
-git clone git@github.com:NicoSa/Where-is-Beauvoir-.git
+git clone git@github.com:NicoSa/Where-is-Beauvoir.git
 cd Where-is-Beauvoir
 rackup
 ```
