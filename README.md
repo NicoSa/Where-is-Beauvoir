@@ -25,9 +25,11 @@ How to run it
 ----
 ```sh
 git clone git@github.com:NicoSa/Where-is-Beauvoir-.git
-cd Where-is-Beauvoir-
+cd Where-is-Beauvoir
 rackup
 ```
+- go to localhost:4567 in your browser
+
 Pairing Partners
 ----
 [Nico],[Oliver]
